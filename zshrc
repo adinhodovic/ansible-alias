@@ -8,6 +8,15 @@ alias a='ansible'
 # Ansible playbook
 alias ap='ansible-playbook'
 
+# Ansible playbook check
+alias apc='ansible-playbook --check'
+
+# Ansible playbook check diff
+alias apcd='ansible-playbook --diff --check'
+
+# Ansible playbook diff
+alias apd='ansible-playbook --diff'
+
 # Ansible pull
 alias al='ansible-pull'
 
