@@ -1,3 +1,3 @@
 # Ansible aliases
 
-#### Useful command line aliases for Docker. This is for my usage.
+Useful command line aliases for Ansible. This is for my usage.
